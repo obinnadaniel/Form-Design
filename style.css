@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image: url("img/roc.jpg");
+    background-size: cover;
+    overflow: hidden;
+}
+#p1{
+	height: 700px;
+	width: 500px;
+	margin-left: 230px;
+	margin-top: 100px;
+	border-radius: 20px;
+}
+
+
+#p1 img{
+	height: 600px;
+}
+
+
+
+#p2{
+	height: 600px;
+	width: 420px;
+	background-color: #E0E0E0;
+	margin-left: 580px;
+	margin-top: -800px;
+	position: relative;
+	left: 50px;
+	top: 100px;
+}
+
+#p2 h2{
+	position:relative;
+	top: 20px;
+	text-align: center;
+	font-size: 30px;
+	font-family: Cambria;
+}
+
+
+#p2 label{
+	position:relative;
+	top: 40px;
+	left: 90px;
+}
+
+#p2 .in1{
+border:none;
+margin-top: 50px;
+margin-left: 90px;
+font-size: 22px;
+height: 40px;
+}
+
+#p2 ul{
+	margin-left: 110px;
+	margin-top: 15px;
+}
+
+#p2 a{
+color: black;
+}
+
+#p2 ul input{
+position: relative;
+left: 10px;
+top: 18px;
+background: none;
+background-color: black;
+color: white;
+height: 40px;
+width: 200px;
+}
